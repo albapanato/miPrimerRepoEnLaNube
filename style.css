@@ -1,5 +1,9 @@
 .wrapped {
   width: 100vw;
   height: 100vh;
-  background-color: aquamarine;
+  background-color: rgb(92, 92, 92);
+}
+
+h1 {
+  color: whitesmoke;
 }
